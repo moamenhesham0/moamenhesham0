@@ -15,7 +15,7 @@
   🎓 Computer Engineering student at <strong>Alexandria University</strong><br>
   🧠 Passionate about <strong>Problem Solving</strong> and <strong>AI</strong><br>
   💻 Full-stack developer | Competitive programmer<br>
-  ⚙️ Constantly learning and building cool stuff
+  ⚙️ Always eager to learn and improve
 </p>
 
 ---
