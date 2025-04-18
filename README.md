@@ -1,5 +1,14 @@
-<h1 align="center">Hi, I'm Moamen Hesham</h1>
-<h3 align="center">Computer Engineering Student at Alexandria University</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=D14EF3&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Hi%2C+I'm+Moamen+Hesham" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D14EF3&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Problem+Solver;" alt="Typing SVG" />
+</p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moamenhesham0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,24 +16,28 @@
 
 ---
 
-<p align="center">
+
+
+<p align="left">
   <img src="https://img.shields.io/badge/About Me-626EF7?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 </p>
 
-<p align="center">
-  🎓 Computer Engineering student at <strong>Alexandria University</strong><br>
-  🧠 Passionate about <strong>Problem Solving</strong> and <strong>AI</strong><br>
-  💻 Full-stack developer | Competitive programmer<br>
-  ⚙️ Always eager to learn and improve
+<p align="left">
+  - 🎓 Computer Engineering student at <strong>Alexandria University</strong><br>
+  - 🧠 Passionate about<strong>Software Development</strong>, <strong>Problem Solving</strong> and <strong>AI</strong><br>
+  - 💻 Software developer | Competitive programmer<br>
+  - ⚙️ Always eager to learn and improve
 </p>
 
 ---
 
-<p align="center">
+
+
+<p align="left">
   <img src="https://img.shields.io/badge/Connect With Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/moamenhesham0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -38,11 +51,11 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GitHub Trophies-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=moamenhesham0&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies" />
   </a>
@@ -50,11 +63,11 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Languages & Tools-626EF7?style=for-the-badge&logo=codefactor&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
