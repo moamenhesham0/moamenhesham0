@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/About Me-626EF7?style=for-the-badge&logo=aboutdotme&logoColor=white" />
 </p>
 
-<p align="left">
+
   - 🎓 Computer Engineering student at <strong>Alexandria University</strong><br>
   - 🧠 Passionate about <strong>Software Development</strong>, <strong>Problem Solving</strong> and <strong>AI</strong><br>
   - 💻 Software developer | Competitive programmer<br>
   - ⚙️ Always eager to learn and improve
-</p>
+
 
 ---
 
@@ -51,17 +51,7 @@
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub Trophies-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moamenhesham0&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
----
 
 <p align="left">
   <img src="https://img.shields.io/badge/Languages & Tools-626EF7?style=for-the-badge&logo=codefactor&logoColor=white" />
@@ -80,6 +70,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub Trophies-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moamenhesham0&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies" />
+  </a>
 </p>
 
 ---
