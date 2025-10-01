@@ -23,10 +23,10 @@
 </p>
 
 
-  - 🎓 Computer Engineering student at <strong>Alexandria University</strong><br>
-  - 🧠 Passionate about <strong>Software Development</strong>, <strong>Problem Solving</strong> and <strong>AI</strong><br>
-  - 💻 Software developer | Competitive programmer<br>
-  - ⚙️ Always eager to learn and improve
+  - Computer Engineering student at <strong>Alexandria University</strong><br>
+  - Passionate about <strong>Software Development</strong>, <strong>Problem Solving</strong> and <strong>AI</strong><br>
+  - Software developer | Competitive programmer<br>
+  - Always eager to learn and improve
 
 
 ---
