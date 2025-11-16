@@ -33,7 +33,7 @@
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Connect -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Other Platforms -0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
 
 <p align="left">
