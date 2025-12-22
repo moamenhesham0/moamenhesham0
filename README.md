@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=D14EF3&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=40&lines=Hi%2C+I'm+Moamen+Hesham" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D14EF3&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Problem+Solver;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D14EF3&center=true&vCenter=true&width=435&lines=Software+Engineer;AI+Enthusiast;Problem+Solver;" alt="Typing SVG" />
 </p>
 
 
