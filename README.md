@@ -77,32 +77,20 @@
 
 ---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub Trophies-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=moamenhesham0&theme=darkhub&margin-w=15&no-frame=true" alt="Trophies" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub Stats-1f425f?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moamenhesham0&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moamenhesham0&langs_count=6&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moamenhesham0&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moamenhesham0&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moamenhesham0&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=moamenhesham0&theme=dark" alt="Streak Stats" />
 </p>
 
 
